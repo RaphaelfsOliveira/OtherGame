@@ -1,5 +1,4 @@
-Dragon Game 
-
+//Dragon Game 
 
 var slaying = true;
 
